@@ -2,7 +2,7 @@ package ProgrammersJava;
 
 import java.util.*;
 
-class Solution {
+class PGM_오픈채팅방 {
     private static class LogObj{
         String strAct;
         String strId;
