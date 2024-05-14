@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/Simulation/BOJ_14503_로봇청소기.js"
+            "program": "${workspaceFolder}/Implement/BOJ_23971_ZOAC4.js"
         }
     ]
 }
